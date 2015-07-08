@@ -15,4 +15,3 @@ number = int(input("What number do you want to check? "))
 print(distance_from_zero(number))
 myFunctions.validate(distance_from_zero(number))
 
-
