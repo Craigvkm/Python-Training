@@ -29,6 +29,7 @@ for number in a:
 	if number%2 == 0:
 		print(number)
 
+# Tests for a object type "list"
 atype = str(type(a))
 if atype == "<class 'list'>":
 	print("Its a list!!!!")
